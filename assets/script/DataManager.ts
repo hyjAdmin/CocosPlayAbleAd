@@ -1,9 +1,4 @@
-/*
- * @Description: 多语言配置
- * @Author: hanyajun
- * @Date: 2024-06-21 16:41:26
- * @LastEditTime: 2024-06-21 18:06:14
- */
+
 export const DataManager = {
     'en': {
         level: 'Level 1',
